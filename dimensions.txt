@@ -1,0 +1,4 @@
+Utilisation de jquery + ajax (base de données contenant les questions)
+largeur canvas : 750 px
+cadre appli: 700x600 
+cadre quizz : 500x340 margin-left : 100
